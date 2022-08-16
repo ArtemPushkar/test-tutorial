@@ -1,0 +1,6 @@
+display: block;
+display: flex;
+position: relative;
+position: sticky;
+position: absolute;
+position: fixed;
